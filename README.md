@@ -31,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikumar-2021&show_icons=true&locale=en&layout=compact" alt="ravikumar-2021" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravikumar-2021&show_icons=true&locale=en" alt="ravikumar-2021" /></p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikumar-2021" alt="ravikumar-2021" /></a> </p>
